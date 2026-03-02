@@ -5,9 +5,7 @@ Claude AI ile tweet thread oluştur, Twitter/X'te paylaş.
 ## Kurulum
 
 ```bash
-pip install git+file:///path/to/ai-twitter-share
-# veya GitHub'dan:
-pip install git+https://github.com/user/ai-twitter-share.git
+pip install git+https://github.com/akarca/ai-twitter-share
 ```
 
 ## Kullanım
